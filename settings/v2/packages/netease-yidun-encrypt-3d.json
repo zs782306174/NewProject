@@ -1,0 +1,9 @@
+{
+  "config": {
+    "buildDir": "F:\\zs\\NewProject\\build\\web-mobile",
+    "engineDir": "D:\\Cocos\\Creator\\Creator\\Creator\\3.6.0",
+    "neteaseKey": "1234567890qwerty",
+    "excludeExt": "",
+    "buildTypeSelect": "0"
+  }
+}
